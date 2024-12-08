@@ -18,8 +18,8 @@ I'm Nodir Khikmatov, a passionate MERN Stack Developer. I love building full-sta
 
 ## 📊 Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nodir&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NodirKhikmatov&layout=compact&theme=radical)
 
 ## 📈 GitHub Stats
-![Isroiljon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nodir&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nodir&theme=radical)](https://git.io/streak-stats)
+![Isroiljon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NodirKhikmatov&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NodirKhikmatov&theme=radical)](https://git.io/streak-stats)
