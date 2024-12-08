@@ -15,9 +15,11 @@ I'm Nodir Khikmatov, a passionate MERN Stack Developer. I love building full-sta
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 
+
 ## 📊 Languages Used
 
-![Top Langs](https://github.com/NodirKhikmatov)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nodir&layout=compact&theme=radical)
 
 ## 📈 GitHub Stats
-!Nodir's GitHub stats](https://github.com/NodirKhikmatov/NodirKhikmatov/edit/main/README.md)
+![Isroiljon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nodir&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nodir&theme=radical)](https://git.io/streak-stats)
