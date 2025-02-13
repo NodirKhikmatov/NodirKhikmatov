@@ -29,6 +29,3 @@ I'm Nodir Khikmatov, a passionate MERN Stack Developer. I love building full-sta
 ###
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
